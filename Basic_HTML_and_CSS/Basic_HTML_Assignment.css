@@ -1,0 +1,14 @@
+ol {
+	background: orange;
+	color: black;
+	text-align: center;
+}
+ul {
+	background: red;
+	color: black;
+	text-align: center;
+}
+h1 {
+	font-style: italic;
+	text-shadow: 2px 2px #ff0000;
+}

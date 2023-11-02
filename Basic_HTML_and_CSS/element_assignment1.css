@@ -1,0 +1,14 @@
+<style>
+		.first_line {
+			background-color: blue;
+			color: orange;
+			font-size: medium;
+		}
+		.second_line {
+			background-color: pink;
+			color: black;
+			font-size: large;
+		}
+</style>
+
+<p class="first_line">This paragraph is written in my style!</p>

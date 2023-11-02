@@ -1,0 +1,16 @@
+
+table {
+	border: 2px solid gold;
+	font-style: italic;
+}
+td:hover {
+	background-color: orange;
+	color: black;
+}
+tr, th {
+	background-color: grey;
+	color: cornsilk;
+}
+h1 {
+	font-style: italic;
+}

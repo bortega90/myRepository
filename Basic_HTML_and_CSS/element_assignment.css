@@ -1,0 +1,11 @@
+
+	p {
+		color: blue;
+		background-color: orange;
+		font-size: large;
+		text-align: center;
+	}
+	p {
+	  text-shadow: 3px 2px #83FF33
+	}
+
